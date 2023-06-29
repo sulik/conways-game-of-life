@@ -13,5 +13,5 @@ In the project directory, you can run:
 
 * `yarn dev`
 * `yarn build`
-* `yarn preview`
+* `yarn serve`
 
