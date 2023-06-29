@@ -7,6 +7,10 @@
 >
 > [*Wikipedia article*](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+## Live Demo
+
+[https://conways-game-of-life-alpha.vercel.app](https://conways-game-of-life-alpha.vercel.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
