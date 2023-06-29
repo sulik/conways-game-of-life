@@ -1,5 +1,13 @@
+import { CssBaseline } from "@mui/material";
+import Game from "./components/Game";
+
 const App = () => {
-  return <div>Conway's Game of Life</div>;
+  return (
+    <>
+      <CssBaseline />
+      <Game />
+    </>
+  );
 };
 
 export default App;
